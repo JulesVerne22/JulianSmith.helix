@@ -1,0 +1,19 @@
+theme = "kaolin-dark"
+
+[editor]
+true-color = true
+line-number = "relative"
+scrolloff = 8
+mouse = false
+cursorline = true
+rulers = [80]
+bufferline = "multiple"
+
+[editor.lsp]
+display-inlay-hints = true
+
+[editor.cursor-shape]
+select = "underline"
+
+[editor.indent-guides]
+render = true
